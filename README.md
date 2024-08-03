@@ -50,3 +50,7 @@ The Inventory Management System is a project designed to monitor the stock level
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
+
+For any inquiries or support, please contact janaaki2005@gmail.com
